@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/20 20:27:38.000.552,=C:\Users\Merscial#Raymond\Documents\Embarcadero\Studio\Projets\Unit13.pas</Transaction>
+    <Transaction>2023/05/23 22:48:57.172,=C:\Users\Merscial#Raymond\Documents\Embarcadero\Studio\Projets\Unit13.pas</Transaction>
+    <Transaction>2023/05/23 23:02:35.312,D:\Telegram_PRJ\Unit13.fmx=C:\Users\Merscial#Raymond\Documents\Embarcadero\Studio\Projets\Unit13.fmx</Transaction>
+    <Transaction>2023/05/23 23:02:35.312,D:\Telegram_PRJ\Unit13.pas=C:\Users\Merscial#Raymond\Documents\Embarcadero\Studio\Projets\Unit13.pas</Transaction>
+    <Transaction>2023/05/23 23:02:38.512,D:\Telegram_PRJ\Project11.dproj=C:\Users\Merscial#Raymond\Documents\Embarcadero\Studio\Projets\Project11.dproj</Transaction>
+    <Transaction>2023/05/23 23:08:10.016,=D:\Telegram_PRJ\uClassMessageDTO.pas</Transaction>
+    <Transaction>2023/05/23 23:08:10.440,=D:\Telegram_PRJ\uConsts.pas</Transaction>
+    <Transaction>2023/05/23 23:08:10.518,=D:\Telegram_PRJ\uTelegramAPI.Interfaces.pas</Transaction>
+    <Transaction>2023/05/23 23:08:10.628,=D:\Telegram_PRJ\uTelegramAPI.pas</Transaction>
+    <Transaction>2023/05/24 12:14:59.327,D:\TelegramBotDelphi\Project11.dproj=D:\Telegram_PRJ\Project11.dproj</Transaction>
+    <Transaction>2023/05/24 12:15:20.225,D:\TelegramBotDelphi\Unit13.fmx=D:\Telegram_PRJ\Unit13.fmx</Transaction>
+    <Transaction>2023/05/24 12:15:20.225,D:\TelegramBotDelphi\Unit13.pas=D:\Telegram_PRJ\Unit13.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
